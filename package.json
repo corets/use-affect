@@ -1,7 +1,7 @@
 {
   "name": "@corets/use-affect",
   "description": "React hook for async side effects",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Maxim Kott",
   "license": "MIT",
   "main": "./dist/index.js",
@@ -11,7 +11,9 @@
     "require": "./dist/index.js",
     "import": "./dist/esm/index.js"
   },
-  "keywords": ["corets"],
+  "keywords": [
+    "corets"
+  ],
   "files": [
     "/dist"
   ],
